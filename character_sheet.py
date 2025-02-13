@@ -10,7 +10,7 @@ client = discord.Client(intents=intents)
 bot = discord.app_commands.CommandTree(client)
 
 #Global variables
-token = "MTI4MDQ3MjQ4Mjk2ODYzNzQ3MQ.GgBM2G.41gZ8xdFtyPFYPPPI0ndmwE1NJPInzDOFEdAtY"
+token = "#[Add you toekn here]"
 app_id = "1280472482968637471"
 guild = discord.Object(id=1279200089440780382)
 
